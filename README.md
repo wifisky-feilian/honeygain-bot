@@ -1,2 +1,6 @@
 # honeygain-bot
-Python code for Honeygain bot to collect daily honey jar.
+🐍 Python bot for honeygain by Passivebot.
+
+🍯 Collect daily Honey-jar automatically.
+
+📖 Learn more: www.passivebot.com/honeygain-bot
