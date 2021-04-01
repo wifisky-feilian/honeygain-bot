@@ -1,6 +1,10 @@
 # honeygain-bot
-🐍 Python bot for honeygain by Passivebot
+🐍 Honeygain bot by Passivebot
 
-🍯 Collect daily honey jar automatically
+🍯 Automatically collect daily honey jar
 
 📖 Learn more: www.passivebot.com/honeygain-bot
+
+
+
+
