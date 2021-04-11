@@ -1,5 +1,5 @@
-# honeygain-bot
-🐍 Honeygain bot by Passivebot
+# honeygain-Bot
+🐍 Honeygain Bot by Passivebot
 
 🍯 Automatically collect daily honey jar
 
